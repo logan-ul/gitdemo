@@ -13,3 +13,4 @@ this is a repo that was made just to practice the following things
 - submitting pull requests
 - handling and merging pull requests
 - branching
+- reverting code
